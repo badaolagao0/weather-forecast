@@ -38,7 +38,8 @@ The application is deployed and live for users to access.
 
 ### Deployment:
 - Deployment be achieved using various platforms:
-  - [000webhost](https://.comhttps://panel.000webhost.com/dashboard/weather-myapi/databases)
+  - [Back-end: 000webhost](https://.comhttps://panel.000webhost.com/dashboard/weather-myapi/databases)
+  - Front-end: haven't deployed
 
 
 ### Thank you for this opportunity. I look forward to the possibility of collaborating with GoldenOwlAsia in the future.
