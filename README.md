@@ -37,9 +37,8 @@ The application is deployed and live for users to access.
 - Link: [weather-myapi](https://weather-myapi.000webhostapp.com)
 
 ### Deployment:
-- Deployment be achieved using various platforms:
-  - [Back-end: 000webhost](https://.comhttps://panel.000webhost.com/dashboard/weather-myapi/databases)
-  - Front-end: haven't deployed
+- Back-end: [weather-myapi](https://weather-myapi.000webhostapp.com)
+- Front-end: haven't deployed
 
 ### Author
 - Doan Quoc Huy
