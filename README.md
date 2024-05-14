@@ -3,7 +3,7 @@
 ## Web:
 ![Weather-dashboard](./screenshort/clone_weather.png)
 
-Use service from api provider https://www.weatherapi.com (free version)
+Use service from API provider https://www.weatherapi.com (free version)
 
 ## Must Have:
 
@@ -29,7 +29,7 @@ The application is deployed and live for users to access.
 
 ### Frontend:
 - React js.
-- Library: React boostrap, Material UI, axios
+- Library: React Bootstrap, Material UI, Axios
 - Hook: useState, useEffect
 
 ### Backend:
@@ -41,13 +41,7 @@ The application is deployed and live for users to access.
   - [Back-end: 000webhost](https://.comhttps://panel.000webhost.com/dashboard/weather-myapi/databases)
   - Front-end: haven't deployed
 
-
-### Thank you for this opportunity. I look forward to the possibility of collaborating with GoldenOwlAsia in the future.
-
-### I look forward to hearing from you soon.
-
 ### Author
-- Jayson
+- Doan Quoc Huy
 
-### Test IQ
-![myTest](./screenshort/result_test_IQ.jpg)
+
