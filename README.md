@@ -25,7 +25,7 @@ Users can register and unsubscribe to receive daily weather forecast information
 ### Deployment:
 The application is deployed and live for users to access.
 
-## Technical Requirements
+## Technical
 
 ### Frontend:
 - React js.
